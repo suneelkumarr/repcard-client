@@ -1,0 +1,12 @@
+# builds
+node_modules
+
+# logs
+*.log*
+
+# pem (ssl key)
+*.pem
+
+# build artifact
+.eslintcache
+build
